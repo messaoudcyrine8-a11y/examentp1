@@ -1,0 +1,2 @@
+conception et implementation de nouvelles fonctionnalités selon les specifications definies
+realisation de tests unitaires et mise a jour de la documentation technique
