@@ -1,2 +1,4 @@
-conception et implementation de nouvelles fonctionnalités selon les specifications definies
-realisation de tests unitaires et mise a jour de la documentation technique
+1. conception et implementation de nouvelles fonctionnalités selon les specifications definies
+2. realisation de tests unitaires et mise a jour de la documentation technique
+3. correction de bugs et optimisation du code pour ameliorer les performances
+
