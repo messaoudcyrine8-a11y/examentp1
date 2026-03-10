@@ -1,4 +1,7 @@
+
 1. conception et implementation de nouvelles fonctionnalités selon les specifications definies
 2. realisation de tests unitaires et mise a jour de la documentation technique
-3. correction de bugs et optimisation du code pour ameliorer les performances
+3. correction de bugs et optimisation du code pour ameliorer les performance
+participation aux reunions techniques et aux revues de code avec l'equipe
+integration et deploiement de l'application dans l'environnement de  test ou de production"
 
